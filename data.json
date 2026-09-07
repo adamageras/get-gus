@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-07T21:40:38.741Z",
-  "sourceUpdatedAt": "2026-09-07T21:25:51.581Z",
+  "updatedAt": "2026-09-07T23:56:47.441Z",
+  "sourceUpdatedAt": "2026-09-07T23:55:56.456Z",
   "status": "ok",
-  "count": 27,
+  "count": 29,
   "items": [
     {
       "date": "2026-09-08",
@@ -216,6 +216,22 @@
       "date": "2026-10-07",
       "startTime": "18:00",
       "endTime": "19:15",
+      "product": "Sauna Gus (FLOW) - Horizon",
+      "gusmester": "",
+      "availability": 30
+    },
+    {
+      "date": "2026-10-08",
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "",
+      "availability": 30
+    },
+    {
+      "date": "2026-10-08",
+      "startTime": "20:00",
+      "endTime": "21:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "",
       "availability": 30
