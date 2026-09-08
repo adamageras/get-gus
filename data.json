@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-08T08:14:55.353Z",
-  "sourceUpdatedAt": "2026-09-08T08:10:51.742Z",
+  "updatedAt": "2026-09-08T12:58:13.511Z",
+  "sourceUpdatedAt": "2026-09-08T12:55:51.092Z",
   "status": "ok",
   "count": 29,
   "items": [
@@ -106,7 +106,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Kamille jacqueline Høgh Sørensen",
-      "availability": 26
+      "availability": 23
     },
     {
       "date": "2026-10-01",
