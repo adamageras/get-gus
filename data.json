@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-09T01:00:35.161Z",
-  "sourceUpdatedAt": "2026-09-09T00:56:01.293Z",
+  "updatedAt": "2026-09-09T06:18:51.715Z",
+  "sourceUpdatedAt": "2026-09-09T06:10:52.495Z",
   "status": "ok",
   "count": 29,
   "items": [
@@ -10,7 +10,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Gusmester Benjamin Rubinstein",
-      "availability": 27
+      "availability": 25
     },
     {
       "date": "2026-09-13",
