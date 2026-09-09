@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-09T11:40:19.690Z",
-  "sourceUpdatedAt": "2026-09-09T11:25:53.267Z",
+  "updatedAt": "2026-09-09T15:51:00.732Z",
+  "sourceUpdatedAt": "2026-09-09T15:40:52.432Z",
   "status": "ok",
   "count": 29,
   "items": [
@@ -26,7 +26,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Gusmester Jostein Waagen",
-      "availability": 28
+      "availability": 25
     },
     {
       "date": "2026-09-15",
