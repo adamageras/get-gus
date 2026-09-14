@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-14T05:43:39.776Z",
-  "sourceUpdatedAt": "2026-09-14T05:40:52.413Z",
+  "updatedAt": "2026-09-14T17:34:39.907Z",
+  "sourceUpdatedAt": "2026-09-14T17:25:52.747Z",
   "status": "ok",
   "count": 37,
   "items": [
@@ -26,7 +26,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Gusmester Mads Gøthler",
-      "availability": 15
+      "availability": 10
     },
     {
       "date": "2026-09-22",
