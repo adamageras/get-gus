@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-16T14:00:06.830Z",
-  "sourceUpdatedAt": "2026-09-16T13:55:55.565Z",
+  "updatedAt": "2026-09-16T21:30:37.510Z",
+  "sourceUpdatedAt": "2026-09-16T21:25:56.188Z",
   "status": "ok",
   "count": 39,
   "items": [
@@ -18,7 +18,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Gusmester Mads Gøthler",
-      "availability": 5
+      "availability": 3
     },
     {
       "date": "2026-09-22",
@@ -242,7 +242,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 30
+      "availability": 18
     },
     {
       "date": "2026-10-11",
@@ -258,7 +258,7 @@
       "endTime": "15:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 27
+      "availability": 25
     },
     {
       "date": "2026-10-11",
