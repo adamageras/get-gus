@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-17T10:14:06.103Z",
-  "sourceUpdatedAt": "2026-09-17T10:10:51.235Z",
+  "updatedAt": "2026-09-17T15:08:45.413Z",
+  "sourceUpdatedAt": "2026-09-17T14:55:55.092Z",
   "status": "ok",
   "count": 43,
   "items": [
@@ -90,7 +90,7 @@
       "endTime": "17:45",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 30
+      "availability": 22
     },
     {
       "date": "2026-10-03",
