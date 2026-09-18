@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-18T21:05:27.760Z",
-  "sourceUpdatedAt": "2026-09-18T20:55:57.452Z",
+  "updatedAt": "2026-09-18T23:27:09.184Z",
+  "sourceUpdatedAt": "2026-09-18T23:25:52.038Z",
   "status": "ok",
-  "count": 47,
+  "count": 48,
   "items": [
     {
       "date": "2026-09-20",
@@ -378,6 +378,14 @@
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Magnus Hyldahl Marker",
+      "availability": 30
+    },
+    {
+      "date": "2026-10-19",
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "Jesper Schiøtt",
       "availability": 30
     }
   ]
