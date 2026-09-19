@@ -1,25 +1,9 @@
 {
-  "updatedAt": "2026-09-19T17:43:55.135Z",
-  "sourceUpdatedAt": "2026-09-19T17:40:55.295Z",
-  "status": "ok",
-  "count": 48,
+  "updatedAt": "2026-09-19T19:58:41.982Z",
+  "sourceUpdatedAt": "2026-09-19T19:40:52.918Z",
+  "status": "stale",
+  "count": 46,
   "items": [
-    {
-      "date": "2026-09-20",
-      "startTime": "12:00",
-      "endTime": "13:15",
-      "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "Andreas Krabholm",
-      "availability": 6
-    },
-    {
-      "date": "2026-09-20",
-      "startTime": "18:00",
-      "endTime": "19:15",
-      "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "Gusmester Mads Gøthler",
-      "availability": 0
-    },
     {
       "date": "2026-09-22",
       "startTime": "18:00",
@@ -388,5 +372,6 @@
       "gusmester": "Jesper Schiøtt",
       "availability": 30
     }
-  ]
+  ],
+  "message": "Address unavailable: https://api.bookspot.io/api/guest/v3/products/17016/availability?key=b16c2784ae1c6119c4a7a558a709d9a4dbe92d8acb618d86a79047fe93509d3d&fromDate=2026-09-19&toDate=2026-10-19&durationId=8095&rentalProductId=17016&participants=1"
 }
