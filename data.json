@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-20T19:36:59.935Z",
-  "sourceUpdatedAt": "2026-09-20T19:25:53.808Z",
+  "updatedAt": "2026-09-20T22:08:59.939Z",
+  "sourceUpdatedAt": "2026-09-20T21:55:52.316Z",
   "status": "ok",
   "count": 46,
   "items": [
@@ -34,7 +34,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Gusmester Tania Biil Petersen",
-      "availability": 19
+      "availability": 20
     },
     {
       "date": "2026-09-29",
