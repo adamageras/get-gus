@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-09-20T09:56:09.464Z",
-  "sourceUpdatedAt": "2026-09-20T09:55:52.983Z",
+  "updatedAt": "2026-09-20T17:19:28.578Z",
+  "sourceUpdatedAt": "2026-09-20T17:10:56.352Z",
   "status": "ok",
-  "count": 47,
+  "count": 46,
   "items": [
     {
       "date": "2026-09-22",
@@ -61,20 +61,12 @@
       "availability": 27
     },
     {
-      "date": "2026-10-01",
-      "startTime": "20:00",
-      "endTime": "21:15",
-      "product": "Sauna Gus (FLOW) - Horizon",
-      "gusmester": "Toke Emil Vig Juhl",
-      "availability": 30
-    },
-    {
       "date": "2026-10-02",
       "startTime": "16:30",
       "endTime": "17:45",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 22
+      "availability": 23
     },
     {
       "date": "2026-10-03",
@@ -154,7 +146,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "",
-      "availability": 30
+      "availability": 27
     },
     {
       "date": "2026-10-07",
@@ -170,7 +162,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "",
-      "availability": 30
+      "availability": 28
     },
     {
       "date": "2026-10-08",
