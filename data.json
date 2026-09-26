@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-26T18:57:36.717Z",
-  "sourceUpdatedAt": "2026-09-26T18:55:53.660Z",
+  "updatedAt": "2026-09-26T21:54:05.495Z",
+  "sourceUpdatedAt": "2026-09-26T21:40:58.445Z",
   "status": "ok",
   "count": 51,
   "items": [
@@ -34,7 +34,7 @@
       "endTime": "21:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Toke Emil Vig Juhl",
-      "availability": 28
+      "availability": 26
     },
     {
       "date": "2026-10-02",
