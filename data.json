@@ -1,24 +1,16 @@
 {
-  "updatedAt": "2026-09-29T14:12:10.459Z",
-  "sourceUpdatedAt": "2026-09-29T14:11:04.669Z",
+  "updatedAt": "2026-09-29T19:32:29.300Z",
+  "sourceUpdatedAt": "2026-09-29T19:25:55.988Z",
   "status": "ok",
-  "count": 55,
+  "count": 54,
   "items": [
-    {
-      "date": "2026-09-29",
-      "startTime": "18:00",
-      "endTime": "19:15",
-      "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "",
-      "availability": 10
-    },
     {
       "date": "2026-09-30",
       "startTime": "18:00",
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Kamille jacqueline Høgh Sørensen",
-      "availability": 11
+      "availability": 9
     },
     {
       "date": "2026-10-01",
@@ -26,7 +18,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 24
+      "availability": 23
     },
     {
       "date": "2026-10-01",
