@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-04T20:19:01.252Z",
-  "sourceUpdatedAt": "2026-10-04T20:10:55.093Z",
+  "updatedAt": "2026-10-04T23:25:48.778Z",
+  "sourceUpdatedAt": "2026-10-04T23:11:02.035Z",
   "status": "ok",
-  "count": 51,
+  "count": 52,
   "items": [
     {
       "date": "2026-10-05",
@@ -18,7 +18,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Kamille jacqueline Høgh Sørensen",
-      "availability": 21
+      "availability": 19
     },
     {
       "date": "2026-10-07",
@@ -82,7 +82,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 20
+      "availability": 13
     },
     {
       "date": "2026-10-11",
@@ -409,6 +409,14 @@
       "startTime": "20:00",
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "",
+      "availability": 30
+    },
+    {
+      "date": "2026-11-04",
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "",
       "availability": 30
     }
