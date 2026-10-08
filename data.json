@@ -1,17 +1,9 @@
 {
-  "updatedAt": "2026-10-08T16:44:46.056Z",
-  "sourceUpdatedAt": "2026-10-08T16:40:51.788Z",
+  "updatedAt": "2026-10-08T21:47:03.154Z",
+  "sourceUpdatedAt": "2026-10-08T21:40:53.252Z",
   "status": "ok",
-  "count": 52,
+  "count": 51,
   "items": [
-    {
-      "date": "2026-10-08",
-      "startTime": "20:00",
-      "endTime": "21:15",
-      "product": "Sauna Gus (FLOW) - Horizon",
-      "gusmester": "Toke Emil Vig Juhl",
-      "availability": 22
-    },
     {
       "date": "2026-10-09",
       "startTime": "16:30",
@@ -50,7 +42,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 11
+      "availability": 9
     },
     {
       "date": "2026-10-11",
@@ -154,7 +146,7 @@
       "endTime": "15:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Stine Harboe Petersen",
-      "availability": 22
+      "availability": 19
     },
     {
       "date": "2026-10-19",
