@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-09T20:14:28.973Z",
-  "sourceUpdatedAt": "2026-10-09T20:10:56.140Z",
+  "updatedAt": "2026-10-10T00:11:26.757Z",
+  "sourceUpdatedAt": "2026-10-10T00:10:53.369Z",
   "status": "ok",
-  "count": 53,
+  "count": 54,
   "items": [
     {
       "date": "2026-10-10",
@@ -427,6 +427,14 @@
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "",
       "availability": 30
+    },
+    {
+      "date": "2026-11-09",
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "",
+      "availability": 29
     }
   ]
 }
