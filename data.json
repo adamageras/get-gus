@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-14T00:26:57.296Z",
-  "sourceUpdatedAt": "2026-10-14T00:25:57.008Z",
+  "updatedAt": "2026-10-14T05:12:33.826Z",
+  "sourceUpdatedAt": "2026-10-14T05:10:54.253Z",
   "status": "ok",
   "count": 75,
   "items": [
@@ -106,7 +106,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Magnus Hyldahl Marker",
-      "availability": 28
+      "availability": 25
     },
     {
       "date": "2026-10-19",
