@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-15T01:14:24.917Z",
-  "sourceUpdatedAt": "2026-10-15T01:11:07.561Z",
+  "updatedAt": "2026-10-15T06:08:59.021Z",
+  "sourceUpdatedAt": "2026-10-15T05:56:04.085Z",
   "status": "ok",
   "count": 78,
   "items": [
@@ -130,7 +130,7 @@
       "endTime": "18:45",
       "product": "Transformative Sauna Gus",
       "gusmester": "Stefano",
-      "availability": 10
+      "availability": 1
     },
     {
       "date": "2026-10-21",
@@ -146,7 +146,7 @@
       "endTime": "20:15",
       "product": "Transformative Sauna Gus",
       "gusmester": "Stefano",
-      "availability": 10
+      "availability": 7
     },
     {
       "date": "2026-10-22",
