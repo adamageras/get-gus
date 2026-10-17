@@ -1,17 +1,9 @@
 {
-  "updatedAt": "2026-10-17T04:47:40.524Z",
-  "sourceUpdatedAt": "2026-10-17T04:40:54.858Z",
+  "updatedAt": "2026-10-17T08:59:08.116Z",
+  "sourceUpdatedAt": "2026-10-17T08:55:55.354Z",
   "status": "ok",
-  "count": 78,
+  "count": 76,
   "items": [
-    {
-      "date": "2026-10-17",
-      "startTime": "10:00",
-      "endTime": "11:15",
-      "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "Stine Harboe Petersen",
-      "availability": 11
-    },
     {
       "date": "2026-10-17",
       "startTime": "12:00",
@@ -29,14 +21,6 @@
       "availability": 30
     },
     {
-      "date": "2026-10-17",
-      "startTime": "16:00",
-      "endTime": "17:15",
-      "product": "Sauna Gus (BOOST) - Horizon",
-      "gusmester": "Benjamin Rubinstein",
-      "availability": 2
-    },
-    {
       "date": "2026-10-18",
       "startTime": "10:00",
       "endTime": "11:15",
@@ -50,7 +34,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Jesper Schiøtt",
-      "availability": 14
+      "availability": 11
     },
     {
       "date": "2026-10-18",
@@ -106,7 +90,7 @@
       "endTime": "20:15",
       "product": "Transformative Sauna Gus",
       "gusmester": "Stefano",
-      "availability": 10
+      "availability": 6
     },
     {
       "date": "2026-10-22",
