@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-19T05:39:49.118Z",
-  "sourceUpdatedAt": "2026-10-19T05:25:53.753Z",
+  "updatedAt": "2026-10-19T11:59:18.890Z",
+  "sourceUpdatedAt": "2026-10-19T11:55:56.821Z",
   "status": "ok",
   "count": 76,
   "items": [
@@ -18,7 +18,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 30
+      "availability": 21
     },
     {
       "date": "2026-10-20",
@@ -74,7 +74,7 @@
       "endTime": "17:45",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Lise Korsholm",
-      "availability": 30
+      "availability": 29
     },
     {
       "date": "2026-10-23",
@@ -138,7 +138,7 @@
       "endTime": "15:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Lise Korsholm",
-      "availability": 28
+      "availability": 27
     },
     {
       "date": "2026-10-25",
@@ -522,7 +522,7 @@
       "endTime": "15:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 30
+      "availability": 24
     },
     {
       "date": "2026-11-14",
