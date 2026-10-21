@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-20T21:11:41.039Z",
-  "sourceUpdatedAt": "2026-10-20T21:10:56.395Z",
+  "updatedAt": "2026-10-21T00:00:02.586Z",
+  "sourceUpdatedAt": "2026-10-20T23:55:58.658Z",
   "status": "ok",
-  "count": 75,
+  "count": 77,
   "items": [
     {
       "date": "2026-10-21",
@@ -18,7 +18,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 16
+      "availability": 18
     },
     {
       "date": "2026-10-21",
@@ -105,7 +105,7 @@
       "startTime": "12:00",
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
-      "gusmester": "Katelein Tang Züger",
+      "gusmester": "Lise Korsholm",
       "availability": 18
     },
     {
@@ -113,7 +113,7 @@
       "startTime": "14:00",
       "endTime": "15:15",
       "product": "Sauna Gus (BOOST) - Horizon",
-      "gusmester": "Lise Korsholm",
+      "gusmester": "TBA",
       "availability": 23
     },
     {
@@ -138,7 +138,7 @@
       "endTime": "17:15",
       "product": "Transformative Sauna Gus",
       "gusmester": "Stefano",
-      "availability": 8
+      "availability": 5
     },
     {
       "date": "2026-10-26",
@@ -602,6 +602,22 @@
       "endTime": "21:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Erik Søndergaard",
+      "availability": 30
+    },
+    {
+      "date": "2026-11-20",
+      "startTime": "16:30",
+      "endTime": "17:45",
+      "product": "Sauna Gus (BOOST) - Horizon",
+      "gusmester": "Lise Korsholm",
+      "availability": 30
+    },
+    {
+      "date": "2026-11-20",
+      "startTime": "19:00",
+      "endTime": "20:15",
+      "product": "Sauna Gus (HEAT & BEATS) - Horizon_ Summer",
+      "gusmester": "Katelein Tang Züger",
       "availability": 30
     }
   ]
