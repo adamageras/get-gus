@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-21T00:00:02.586Z",
-  "sourceUpdatedAt": "2026-10-20T23:55:58.658Z",
+  "updatedAt": "2026-10-21T04:28:37.761Z",
+  "sourceUpdatedAt": "2026-10-21T04:26:02.217Z",
   "status": "ok",
   "count": 77,
   "items": [
@@ -90,7 +90,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Benjamin Rubinstein",
-      "availability": 26
+      "availability": 22
     },
     {
       "date": "2026-10-25",
