@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22T06:20:48.515Z",
-  "sourceUpdatedAt": "2026-10-22T06:11:03.392Z",
+  "updatedAt": "2026-10-22T12:12:56.685Z",
+  "sourceUpdatedAt": "2026-10-22T12:10:58.120Z",
   "status": "ok",
   "count": 77,
   "items": [
@@ -10,7 +10,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 15
+      "availability": 11
     },
     {
       "date": "2026-10-22",
@@ -32,9 +32,9 @@
       "date": "2026-10-23",
       "startTime": "19:00",
       "endTime": "20:15",
-      "product": "Sauna Gus (HEAT & BEATS) - Horizon_ Summer",
+      "product": "Sauna Gus (HEAT & BEATS) - Horizon",
       "gusmester": "Benjamin Rubinstein",
-      "availability": 9
+      "availability": 8
     },
     {
       "date": "2026-10-24",
@@ -74,7 +74,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Mads Gøthler",
-      "availability": 21
+      "availability": 19
     },
     {
       "date": "2026-10-25",
@@ -176,7 +176,7 @@
       "date": "2026-10-30",
       "startTime": "19:00",
       "endTime": "20:15",
-      "product": "Sauna Gus (HEAT & BEATS) - Horizon_ Summer",
+      "product": "Sauna Gus (HEAT & BEATS) - Horizon",
       "gusmester": "Mads Gøthler",
       "availability": 27
     },
@@ -320,7 +320,7 @@
       "date": "2026-11-06",
       "startTime": "19:00",
       "endTime": "20:15",
-      "product": "Sauna Gus (HEAT & BEATS) - Horizon_ Summer",
+      "product": "Sauna Gus (HEAT & BEATS) - Horizon",
       "gusmester": "Frederik Winther Damsgaard",
       "availability": 30
     },
@@ -592,7 +592,7 @@
       "date": "2026-11-20",
       "startTime": "19:00",
       "endTime": "20:15",
-      "product": "Sauna Gus (HEAT & BEATS) - Horizon_ Summer",
+      "product": "Sauna Gus (HEAT & BEATS) - Horizon",
       "gusmester": "Katelein Tang Züger",
       "availability": 30
     },
