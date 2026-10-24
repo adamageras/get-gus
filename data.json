@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T16:49:01.336Z",
-  "sourceUpdatedAt": "2026-10-24T16:40:55.354Z",
+  "updatedAt": "2026-10-24T19:12:40.881Z",
+  "sourceUpdatedAt": "2026-10-24T19:10:55.801Z",
   "status": "ok",
   "count": 76,
   "items": [
@@ -34,7 +34,7 @@
       "endTime": "15:45",
       "product": "Transformative Sauna Gus",
       "gusmester": "Stefano",
-      "availability": 5
+      "availability": 3
     },
     {
       "date": "2026-10-25",
@@ -42,7 +42,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 20
+      "availability": 16
     },
     {
       "date": "2026-10-25",
