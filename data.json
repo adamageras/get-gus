@@ -1,33 +1,9 @@
 {
-  "updatedAt": "2026-10-25T13:31:53.597Z",
-  "sourceUpdatedAt": "2026-10-25T13:25:53.568Z",
+  "updatedAt": "2026-10-25T17:22:35.430Z",
+  "sourceUpdatedAt": "2026-10-25T17:10:55.269Z",
   "status": "ok",
-  "count": 74,
+  "count": 71,
   "items": [
-    {
-      "date": "2026-10-25",
-      "startTime": "14:30",
-      "endTime": "15:45",
-      "product": "Transformative Sauna Gus",
-      "gusmester": "Stefano",
-      "availability": 3
-    },
-    {
-      "date": "2026-10-25",
-      "startTime": "16:00",
-      "endTime": "17:15",
-      "product": "Sauna Gus (WELCOME) - Horizon",
-      "gusmester": "Jostein Waagen",
-      "availability": 2
-    },
-    {
-      "date": "2026-10-25",
-      "startTime": "16:00",
-      "endTime": "17:15",
-      "product": "Transformative Sauna Gus",
-      "gusmester": "Stefano",
-      "availability": 1
-    },
     {
       "date": "2026-10-26",
       "startTime": "18:00",
@@ -98,7 +74,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 21
+      "availability": 15
     },
     {
       "date": "2026-10-31",
@@ -146,7 +122,7 @@
       "endTime": "15:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 27
+      "availability": 23
     },
     {
       "date": "2026-11-01",
@@ -346,7 +322,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 30
+      "availability": 25
     },
     {
       "date": "2026-11-12",
