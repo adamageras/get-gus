@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-27T23:02:42.659Z",
-  "sourceUpdatedAt": "2026-10-27T22:55:53.518Z",
+  "updatedAt": "2026-10-28T02:29:20.367Z",
+  "sourceUpdatedAt": "2026-10-28T02:25:56.737Z",
   "status": "ok",
-  "count": 69,
+  "count": 71,
   "items": [
     {
       "date": "2026-10-29",
@@ -555,6 +555,22 @@
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Katelein Tang Züger",
       "availability": 30
+    },
+    {
+      "date": "2026-11-27",
+      "startTime": "16:30",
+      "endTime": "17:45",
+      "product": "Sauna Gus (BOOST) - Horizon",
+      "gusmester": "Jostein Waagen",
+      "availability": 16
+    },
+    {
+      "date": "2026-11-27",
+      "startTime": "19:00",
+      "endTime": "20:15",
+      "product": "Sauna Gus (HEAT & BEATS) - Horizon",
+      "gusmester": "Benjamin Rubinstein",
+      "availability": 26
     }
   ]
 }
