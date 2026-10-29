@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-29T00:34:09.792Z",
-  "sourceUpdatedAt": "2026-10-29T00:26:05.802Z",
+  "updatedAt": "2026-10-29T06:42:55.985Z",
+  "sourceUpdatedAt": "2026-10-29T06:40:53.852Z",
   "status": "ok",
   "count": 75,
   "items": [
@@ -538,7 +538,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 26
+      "availability": 24
     },
     {
       "date": "2026-11-26",
