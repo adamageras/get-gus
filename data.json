@@ -1,40 +1,16 @@
 {
-  "updatedAt": "2026-10-31T06:36:21.736Z",
-  "sourceUpdatedAt": "2026-10-31T06:28:32.997Z",
+  "updatedAt": "2026-10-31T13:15:44.789Z",
+  "sourceUpdatedAt": "2026-10-31T13:13:37.350Z",
   "status": "ok",
-  "count": 74,
+  "count": 71,
   "items": [
-    {
-      "date": "2026-10-31",
-      "startTime": "10:00",
-      "endTime": "11:15",
-      "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "Karoline Kobber Kristensen",
-      "availability": 6
-    },
-    {
-      "date": "2026-10-31",
-      "startTime": "12:00",
-      "endTime": "13:15",
-      "product": "Sauna Gus (FLOW) - Horizon",
-      "gusmester": "Katelein Tang Züger",
-      "availability": 20
-    },
-    {
-      "date": "2026-10-31",
-      "startTime": "14:00",
-      "endTime": "15:15",
-      "product": "Sauna Gus (WELCOME) - Horizon",
-      "gusmester": "Anne Marie Petersen",
-      "availability": 30
-    },
     {
       "date": "2026-10-31",
       "startTime": "16:00",
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 6
+      "availability": 1
     },
     {
       "date": "2026-11-01",
@@ -42,7 +18,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Martin Larsen",
-      "availability": 18
+      "availability": 14
     },
     {
       "date": "2026-11-01",
@@ -50,7 +26,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Magnus Hyldahl Marker",
-      "availability": 17
+      "availability": 13
     },
     {
       "date": "2026-11-01",
@@ -178,7 +154,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Jesper Schiøtt",
-      "availability": 19
+      "availability": 17
     },
     {
       "date": "2026-11-08",
@@ -258,7 +234,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Mette Korsholm",
-      "availability": 24
+      "availability": 23
     },
     {
       "date": "2026-11-12",
@@ -298,7 +274,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 24
+      "availability": 22
     },
     {
       "date": "2026-11-15",
@@ -330,7 +306,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Kamille Jacqueline Høgh Sørensen",
-      "availability": 26
+      "availability": 24
     },
     {
       "date": "2026-11-16",
