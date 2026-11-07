@@ -1,32 +1,16 @@
 {
-  "updatedAt": "2026-11-07T11:27:41.407Z",
-  "sourceUpdatedAt": "2026-11-07T11:13:34.681Z",
+  "updatedAt": "2026-11-07T16:57:17.722Z",
+  "sourceUpdatedAt": "2026-11-07T16:43:35.679Z",
   "status": "ok",
-  "count": 85,
+  "count": 82,
   "items": [
-    {
-      "date": "2026-11-07",
-      "startTime": "14:00",
-      "endTime": "15:15",
-      "product": "Sauna Gus (WELCOME) - Horizon",
-      "gusmester": "Anne Marie Petersen",
-      "availability": 8
-    },
-    {
-      "date": "2026-11-07",
-      "startTime": "16:00",
-      "endTime": "17:15",
-      "product": "Sauna Gus (BOOST) - Horizon",
-      "gusmester": "Emma Olsen",
-      "availability": 2
-    },
     {
       "date": "2026-11-08",
       "startTime": "10:00",
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Jesper Schiøtt",
-      "availability": 1
+      "availability": 0
     },
     {
       "date": "2026-11-08",
@@ -50,15 +34,7 @@
       "endTime": "15:45",
       "product": "Transformative Sauna Gus",
       "gusmester": "Stefano Fiskbæk",
-      "availability": 5
-    },
-    {
-      "date": "2026-11-08",
-      "startTime": "16:00",
-      "endTime": "17:15",
-      "product": "Sauna Gus (WELCOME) - Horizon",
-      "gusmester": "Lise Korsholm",
-      "availability": 2
+      "availability": 3
     },
     {
       "date": "2026-11-08",
@@ -74,7 +50,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Benjamin Rubinstein",
-      "availability": 27
+      "availability": 22
     },
     {
       "date": "2026-11-08",
@@ -114,7 +90,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 20
+      "availability": 16
     },
     {
       "date": "2026-11-12",
@@ -130,7 +106,7 @@
       "endTime": "21:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 28
+      "availability": 25
     },
     {
       "date": "2026-11-14",
@@ -138,7 +114,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Magnus Hyldahl Marker",
-      "availability": 18
+      "availability": 16
     },
     {
       "date": "2026-11-14",
