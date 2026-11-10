@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-10T03:07:45.577Z",
-  "sourceUpdatedAt": "2026-11-10T02:58:40.154Z",
+  "updatedAt": "2026-11-10T11:29:34.159Z",
+  "sourceUpdatedAt": "2026-11-10T11:28:33.210Z",
   "status": "ok",
   "count": 79,
   "items": [
@@ -10,7 +10,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Erik Søndergaard",
-      "availability": 20
+      "availability": 18
     },
     {
       "date": "2026-11-10",
@@ -18,7 +18,7 @@
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Toke Emil Vig Juhl",
-      "availability": 26
+      "availability": 24
     },
     {
       "date": "2026-11-11",
@@ -26,7 +26,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 8
+      "availability": 7
     },
     {
       "date": "2026-11-12",
@@ -82,7 +82,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 21
+      "availability": 19
     },
     {
       "date": "2026-11-15",
@@ -106,7 +106,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Kamille Jacqueline Høgh Sørensen",
-      "availability": 15
+      "availability": 14
     },
     {
       "date": "2026-11-15",
@@ -130,7 +130,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Stine Harboe Petersen",
-      "availability": 24
+      "availability": 23
     },
     {
       "date": "2026-11-17",
@@ -154,7 +154,7 @@
       "endTime": "18:45",
       "product": "Transformative Sauna Gus",
       "gusmester": "Stefano Fiskbæk",
-      "availability": 10
+      "availability": 8
     },
     {
       "date": "2026-11-18",
@@ -210,7 +210,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 28
+      "availability": 26
     },
     {
       "date": "2026-11-21",
