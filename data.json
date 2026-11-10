@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-09T20:55:27.652Z",
-  "sourceUpdatedAt": "2026-11-09T20:43:33.067Z",
+  "updatedAt": "2026-11-10T03:07:45.577Z",
+  "sourceUpdatedAt": "2026-11-10T02:58:40.154Z",
   "status": "ok",
-  "count": 77,
+  "count": 79,
   "items": [
     {
       "date": "2026-11-10",
@@ -17,7 +17,7 @@
       "startTime": "20:00",
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "Kamille Jacqueline Høgh Sørensen",
+      "gusmester": "Toke Emil Vig Juhl",
       "availability": 26
     },
     {
@@ -26,7 +26,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 10
+      "availability": 8
     },
     {
       "date": "2026-11-12",
@@ -34,7 +34,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Mette Korsholm",
-      "availability": 12
+      "availability": 10
     },
     {
       "date": "2026-11-12",
@@ -113,7 +113,7 @@
       "startTime": "18:00",
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
-      "gusmester": "",
+      "gusmester": "Benjamin Rubinstein",
       "availability": 30
     },
     {
@@ -121,7 +121,7 @@
       "startTime": "20:00",
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "",
+      "gusmester": "Mads Gøthler",
       "availability": 30
     },
     {
@@ -194,7 +194,7 @@
       "endTime": "17:45",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Lise Korsholm",
-      "availability": 29
+      "availability": 27
     },
     {
       "date": "2026-11-20",
@@ -619,6 +619,22 @@
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "",
       "availability": 24
+    },
+    {
+      "date": "2026-12-10",
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "Tania Biil Petersen",
+      "availability": 30
+    },
+    {
+      "date": "2026-12-10",
+      "startTime": "20:00",
+      "endTime": "21:15",
+      "product": "Sauna Gus (FLOW) - Horizon",
+      "gusmester": "Karoline Kobber Kristensen",
+      "availability": 30
     }
   ]
 }
