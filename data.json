@@ -1,17 +1,9 @@
 {
-  "updatedAt": "2026-11-11T12:23:35.170Z",
-  "sourceUpdatedAt": "2026-11-11T12:13:35.912Z",
+  "updatedAt": "2026-11-11T19:46:37.004Z",
+  "sourceUpdatedAt": "2026-11-11T19:44:09.547Z",
   "status": "ok",
-  "count": 79,
+  "count": 78,
   "items": [
-    {
-      "date": "2026-11-11",
-      "startTime": "18:00",
-      "endTime": "19:15",
-      "product": "Sauna Gus (FLOW) - Horizon",
-      "gusmester": "Karoline Kobber Kristensen",
-      "availability": 4
-    },
     {
       "date": "2026-11-12",
       "startTime": "18:00",
@@ -26,7 +18,7 @@
       "endTime": "21:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 18
+      "availability": 16
     },
     {
       "date": "2026-11-14",
@@ -50,7 +42,7 @@
       "endTime": "15:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 9
+      "availability": 7
     },
     {
       "date": "2026-11-14",
@@ -58,7 +50,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 16
+      "availability": 7
     },
     {
       "date": "2026-11-15",
@@ -186,7 +178,7 @@
       "endTime": "20:15",
       "product": "Sauna Gus (HEAT & BEATS) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 26
+      "availability": 23
     },
     {
       "date": "2026-11-21",
@@ -354,7 +346,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Stine Harboe Petersen",
-      "availability": 16
+      "availability": 14
     },
     {
       "date": "2026-11-29",
@@ -378,7 +370,7 @@
       "endTime": "15:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Anne Marie Petersen",
-      "availability": 30
+      "availability": 28
     },
     {
       "date": "2026-11-29",
@@ -505,7 +497,7 @@
       "startTime": "16:00",
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
-      "gusmester": "",
+      "gusmester": "Magnus Hyldahl Marker",
       "availability": 30
     },
     {
