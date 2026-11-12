@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T19:46:37.004Z",
-  "sourceUpdatedAt": "2026-11-11T19:44:09.547Z",
+  "updatedAt": "2026-11-12T01:46:19.911Z",
+  "sourceUpdatedAt": "2026-11-12T01:43:51.876Z",
   "status": "ok",
-  "count": 78,
+  "count": 82,
   "items": [
     {
       "date": "2026-11-12",
@@ -258,14 +258,14 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "",
-      "availability": 30
+      "availability": 28
     },
     {
       "date": "2026-11-22",
       "startTime": "20:00",
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "",
+      "gusmester": "Emma Olsen",
       "availability": 30
     },
     {
@@ -393,7 +393,7 @@
       "startTime": "20:00",
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "",
+      "gusmester": "Emma Olsen",
       "availability": 30
     },
     {
@@ -561,7 +561,7 @@
       "startTime": "20:00",
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "",
+      "gusmester": "Emma Olsen",
       "availability": 30
     },
     {
@@ -625,6 +625,38 @@
       "startTime": "19:00",
       "endTime": "20:15",
       "product": "Sauna Gus (HEAT & BEATS) - Horizon",
+      "gusmester": "",
+      "availability": 30
+    },
+    {
+      "date": "2026-12-12",
+      "startTime": "10:00",
+      "endTime": "11:15",
+      "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "Anne Marie Petersen",
+      "availability": 30
+    },
+    {
+      "date": "2026-12-12",
+      "startTime": "12:00",
+      "endTime": "13:15",
+      "product": "Sauna Gus (FLOW) - Horizon",
+      "gusmester": "Anne Marie Petersen",
+      "availability": 30
+    },
+    {
+      "date": "2026-12-12",
+      "startTime": "14:00",
+      "endTime": "15:15",
+      "product": "Sauna Gus (WELCOME) - Horizon",
+      "gusmester": "",
+      "availability": 26
+    },
+    {
+      "date": "2026-12-12",
+      "startTime": "16:00",
+      "endTime": "17:15",
+      "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "",
       "availability": 30
     }
