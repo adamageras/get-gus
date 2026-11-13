@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-13T03:30:06.724Z",
-  "sourceUpdatedAt": "2026-11-13T03:28:37.488Z",
+  "updatedAt": "2026-11-13T11:27:17.717Z",
+  "sourceUpdatedAt": "2026-11-13T11:13:53.119Z",
   "status": "ok",
-  "count": 88,
+  "count": 86,
   "items": [
     {
       "date": "2026-11-13",
@@ -18,7 +18,7 @@
       "endTime": "23:00",
       "product": "Sauna-festival",
       "gusmester": "",
-      "availability": 18
+      "availability": 8
     },
     {
       "date": "2026-11-14",
@@ -34,15 +34,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 7
-    },
-    {
-      "date": "2026-11-14",
-      "startTime": "14:00",
-      "endTime": "15:15",
-      "product": "Sauna Gus (WELCOME) - Horizon",
-      "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 6
+      "availability": 3
     },
     {
       "date": "2026-11-14",
@@ -50,7 +42,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 7
+      "availability": 3
     },
     {
       "date": "2026-11-15",
@@ -58,7 +50,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 16
+      "availability": 14
     },
     {
       "date": "2026-11-15",
@@ -66,7 +58,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Toke Emil Vig Juhl",
-      "availability": 24
+      "availability": 22
     },
     {
       "date": "2026-11-15",
@@ -98,7 +90,7 @@
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Mads Gøthler",
-      "availability": 28
+      "availability": 26
     },
     {
       "date": "2026-11-16",
@@ -110,25 +102,17 @@
     },
     {
       "date": "2026-11-17",
-      "startTime": "18:00",
-      "endTime": "19:15",
-      "product": "Sauna Gus (WELCOME) - Horizon",
-      "gusmester": "Thomas Frank",
-      "availability": 30
-    },
-    {
-      "date": "2026-11-17",
       "startTime": "20:00",
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Kamille Jacqueline Høgh Sørensen",
-      "availability": 30
+      "availability": 28
     },
     {
       "date": "2026-11-18",
       "startTime": "17:30",
       "endTime": "18:45",
-      "product": "Transformative Sauna Gus",
+      "product": "Product 16353",
       "gusmester": "Stefano Fiskbæk",
       "availability": 9
     },
@@ -138,13 +122,13 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 21
+      "availability": 19
     },
     {
       "date": "2026-11-18",
       "startTime": "19:00",
       "endTime": "20:15",
-      "product": "Transformative Sauna Gus",
+      "product": "Product 16353",
       "gusmester": "Stefano Fiskbæk",
       "availability": 7
     },
@@ -178,7 +162,7 @@
       "endTime": "20:15",
       "product": "Sauna Gus (HEAT & BEATS) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 23
+      "availability": 21
     },
     {
       "date": "2026-11-21",
@@ -186,7 +170,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 26
+      "availability": 22
     },
     {
       "date": "2026-11-21",
@@ -232,7 +216,7 @@
       "date": "2026-11-22",
       "startTime": "14:30",
       "endTime": "15:45",
-      "product": "Transformative Sauna Gus",
+      "product": "Product 16353",
       "gusmester": "Stefano Fiskbæk",
       "availability": 11
     },
@@ -248,7 +232,7 @@
       "date": "2026-11-22",
       "startTime": "16:00",
       "endTime": "17:15",
-      "product": "Transformative Sauna Gus",
+      "product": "Product 16353",
       "gusmester": "Stefano Fiskbæk",
       "availability": 4
     },
@@ -330,7 +314,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 22
+      "availability": 21
     },
     {
       "date": "2026-11-28",
@@ -409,7 +393,7 @@
       "startTime": "18:00",
       "endTime": "19:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
-      "gusmester": "Gusmester oplyses senere",
+      "gusmester": "Emma Olsen",
       "availability": 30
     },
     {
@@ -417,14 +401,14 @@
       "startTime": "20:00",
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
-      "gusmester": "",
+      "gusmester": "Jostein Waagen",
       "availability": 30
     },
     {
       "date": "2026-12-02",
       "startTime": "17:30",
       "endTime": "18:45",
-      "product": "Transformative Sauna Gus",
+      "product": "Product 16353",
       "gusmester": "Stefano Fiskbæk",
       "availability": 11
     },
@@ -440,7 +424,7 @@
       "date": "2026-12-02",
       "startTime": "19:00",
       "endTime": "20:15",
-      "product": "Transformative Sauna Gus",
+      "product": "Product 16353",
       "gusmester": "Stefano Fiskbæk",
       "availability": 11
     },
@@ -528,7 +512,7 @@
       "date": "2026-12-06",
       "startTime": "14:30",
       "endTime": "15:45",
-      "product": "Transformative Sauna Gus",
+      "product": "Product 16353",
       "gusmester": "Stefano Fiskbæk",
       "availability": 11
     },
@@ -544,7 +528,7 @@
       "date": "2026-12-06",
       "startTime": "16:00",
       "endTime": "17:15",
-      "product": "Transformative Sauna Gus",
+      "product": "Product 16353",
       "gusmester": "Stefano Fiskbæk",
       "availability": 11
     },
@@ -578,7 +562,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "",
-      "availability": 28
+      "availability": 21
     },
     {
       "date": "2026-12-08",
@@ -649,7 +633,7 @@
       "startTime": "14:00",
       "endTime": "15:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
-      "gusmester": "",
+      "gusmester": "Jostein Waagen",
       "availability": 26
     },
     {
