@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-14T00:07:46.442Z",
-  "sourceUpdatedAt": "2026-11-13T23:58:37.386Z",
+  "updatedAt": "2026-11-14T06:50:51.757Z",
+  "sourceUpdatedAt": "2026-11-14T06:43:35.086Z",
   "status": "ok",
   "count": 84,
   "items": [
@@ -138,7 +138,7 @@
       "endTime": "20:15",
       "product": "Sauna Gus (HEAT & BEATS) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 21
+      "availability": 19
     },
     {
       "date": "2026-11-21",
@@ -562,7 +562,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Tania Biil Petersen",
-      "availability": 30
+      "availability": 28
     },
     {
       "date": "2026-12-10",
