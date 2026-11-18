@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-18T10:28:28.760Z",
-  "sourceUpdatedAt": "2026-11-18T10:13:35.938Z",
+  "updatedAt": "2026-11-18T18:58:49.509Z",
+  "sourceUpdatedAt": "2026-11-18T18:58:35.929Z",
   "status": "ok",
   "count": 72,
   "items": [
@@ -10,7 +10,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Magnus Hyldahl Marker",
-      "availability": 19
+      "availability": 11
     },
     {
       "date": "2026-11-19",
@@ -34,7 +34,7 @@
       "endTime": "20:15",
       "product": "Sauna Gus (HEAT & BEATS) - Horizon",
       "gusmester": "Karoline Kobber Kristensen",
-      "availability": 21
+      "availability": 17
     },
     {
       "date": "2026-11-21",
@@ -66,7 +66,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Caroline Holm Oxfeldt",
-      "availability": 17
+      "availability": 14
     },
     {
       "date": "2026-11-22",
@@ -106,7 +106,7 @@
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Emma Olsen",
-      "availability": 28
+      "availability": 23
     },
     {
       "date": "2026-11-23",
@@ -218,7 +218,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Jostein Waagen",
-      "availability": 28
+      "availability": 27
     },
     {
       "date": "2026-11-29",
@@ -274,7 +274,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Mette Korsholm",
-      "availability": 28
+      "availability": 26
     },
     {
       "date": "2026-12-04",
@@ -298,7 +298,7 @@
       "endTime": "11:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Anne Marie Petersen",
-      "availability": 24
+      "availability": 22
     },
     {
       "date": "2026-12-05",
@@ -338,7 +338,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Stine Harboe Petersen - Julebangers. Vi fejrer 2. søndag i advent med gus og julehits.",
-      "availability": 27
+      "availability": 26
     },
     {
       "date": "2026-12-06",
@@ -482,7 +482,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Frederik Winther Damsgaard",
-      "availability": 30
+      "availability": 29
     },
     {
       "date": "2026-12-13",
@@ -546,7 +546,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Kamille Jacqueline Høgh Sørensen",
-      "availability": 30
+      "availability": 29
     },
     {
       "date": "2026-12-17",
