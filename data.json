@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T19:54:34.134Z",
-  "sourceUpdatedAt": "2026-11-21T19:43:32.829Z",
+  "updatedAt": "2026-11-22T00:03:19.289Z",
+  "sourceUpdatedAt": "2026-11-21T23:58:37.974Z",
   "status": "ok",
-  "count": 76,
+  "count": 78,
   "items": [
     {
       "date": "2026-11-22",
@@ -34,7 +34,7 @@
       "endTime": "17:15",
       "product": "Sauna Gus (WELCOME) - Horizon",
       "gusmester": "Benjamin Rubinstein",
-      "availability": 8
+      "availability": 4
     },
     {
       "date": "2026-11-22",
@@ -114,7 +114,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Katelein Tang Züger",
-      "availability": 18
+      "availability": 17
     },
     {
       "date": "2026-11-28",
@@ -282,7 +282,7 @@
       "endTime": "13:15",
       "product": "Sauna Gus (FLOW) - Horizon",
       "gusmester": "Stine Harboe Petersen - Julebangers. Vi fejrer 2. søndag i advent med gus og julehits.",
-      "availability": 25
+      "availability": 22
     },
     {
       "date": "2026-12-06",
@@ -611,6 +611,22 @@
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Tania Biil Petersen",
       "availability": 27
+    },
+    {
+      "date": "2026-12-22",
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "product": "Sauna Gus (WELCOME) - Horizon",
+      "gusmester": "Frederik Winther Damsgaard",
+      "availability": 30
+    },
+    {
+      "date": "2026-12-22",
+      "startTime": "20:00",
+      "endTime": "21:15",
+      "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "Stine Harboe Petersen - Julegus. Vi guser juleglæden ind med blide juletoner og dejlige juledufte.",
+      "availability": 30
     }
   ]
 }
