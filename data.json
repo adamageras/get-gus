@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-22T21:29:06.782Z",
-  "sourceUpdatedAt": "2026-11-22T21:28:32.525Z",
+  "updatedAt": "2026-11-23T01:54:59.311Z",
+  "sourceUpdatedAt": "2026-11-23T01:43:31.283Z",
   "status": "ok",
-  "count": 72,
+  "count": 73,
   "items": [
     {
       "date": "2026-11-23",
@@ -578,6 +578,14 @@
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Stine Harboe Petersen - Julegus. Vi guser juleglæden ind med blide juletoner og dejlige juledufte.",
+      "availability": 30
+    },
+    {
+      "date": "2026-12-23",
+      "startTime": "18:00",
+      "endTime": "19:15",
+      "product": "Sauna Gus (FLOW) - Horizon",
+      "gusmester": "Jostein Waagen",
       "availability": 30
     }
   ]
