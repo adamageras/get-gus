@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T21:53:19.773Z",
-  "sourceUpdatedAt": "2026-11-25T21:43:36.744Z",
+  "updatedAt": "2026-11-26T03:54:55.712Z",
+  "sourceUpdatedAt": "2026-11-26T03:43:51.122Z",
   "status": "ok",
-  "count": 74,
+  "count": 76,
   "items": [
     {
       "date": "2026-11-26",
@@ -386,7 +386,7 @@
       "endTime": "19:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "",
-      "availability": 30
+      "availability": 26
     },
     {
       "date": "2026-12-15",
@@ -595,6 +595,22 @@
       "product": "Sauna Gus (BOOST) - Horizon",
       "gusmester": "Gusmester oplyses senere",
       "availability": 30
+    },
+    {
+      "date": "2026-12-26",
+      "startTime": "10:00",
+      "endTime": "11:15",
+      "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "Gusmester oplyses senere",
+      "availability": 28
+    },
+    {
+      "date": "2026-12-26",
+      "startTime": "14:00",
+      "endTime": "15:15",
+      "product": "Sauna Gus (WELCOME) - Horizon",
+      "gusmester": "Gusmester oplyses senere",
+      "availability": 29
     }
   ]
 }
