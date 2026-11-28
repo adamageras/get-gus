@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-27T23:10:40.242Z",
-  "sourceUpdatedAt": "2026-11-27T22:58:40.547Z",
+  "updatedAt": "2026-11-28T04:50:03.645Z",
+  "sourceUpdatedAt": "2026-11-28T04:43:36.099Z",
   "status": "ok",
-  "count": 75,
+  "count": 77,
   "items": [
     {
       "date": "2026-11-28",
@@ -602,6 +602,22 @@
       "endTime": "21:15",
       "product": "Sauna Gus (CALM) - Horizon",
       "gusmester": "Toke Emil Vig Juhl",
+      "availability": 30
+    },
+    {
+      "date": "2026-12-28",
+      "startTime": "10:00",
+      "endTime": "11:15",
+      "product": "Sauna Gus (CALM) - Horizon",
+      "gusmester": "Lise Korsholm",
+      "availability": 30
+    },
+    {
+      "date": "2026-12-28",
+      "startTime": "17:00",
+      "endTime": "18:15",
+      "product": "Sauna Gus (FLOW) - Horizon",
+      "gusmester": "Katelein Tang Züger",
       "availability": 30
     }
   ]
